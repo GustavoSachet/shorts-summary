@@ -1,6 +1,6 @@
 # youtube-shorts-summary
 
-This project contains a web app and a node server that uses AI to transcript and summarise the content of any YouTube shorts.
+This project contains a web app and a node server that uses AI to transcript and summarise the content of any YouTube shorts from the videro URL.
 
 ## Prepare the development environment
 
